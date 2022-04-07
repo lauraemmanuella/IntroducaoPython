@@ -3,6 +3,7 @@
 **Referências:**
 
 * [Learn Python](https://www.learnpython.org/)
+* [Curso de Python no Kaggle](https://www.kaggle.com/learn/python)
 * [Python](https://www.python.org/)
 * [Udemy: Python para Data Science e Machine Learning - COMPLETO](https://www.udemy.com/course/python-para-data-science-e-machine-learning/)
 * [pandas.pydata](https://pandas.pydata.org/)
